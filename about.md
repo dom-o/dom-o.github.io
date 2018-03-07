@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
-permalink: /about/
+permalink: /blog/
 ---
 <div class="posts">
   {% for post in site.posts %}
