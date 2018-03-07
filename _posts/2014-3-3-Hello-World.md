@@ -1,6 +1,7 @@
 ---
 layout: page
-title: It's me
+title: Projects
+permalink: /projects/
 ---
 
 Who knows if it works?
